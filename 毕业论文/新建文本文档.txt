@@ -6,5 +6,7 @@ https://my.oschina.net/foodon/blog/492885
 
 http://80x86.io/post/blowfish-cipher
 
+https://en.wikipedia.org/wiki/Blowfish_(cipher)
+
 ssh:
 http://baike.baidu.com/link?url=IDckihF1e41UL0xKII0Ymk10DQLbWsD_bcoCIYMkIAYO20KT1gTDZyZDfvFeYODfrdvg9QAl1yLLbYbYvDZ651XQ5NkvF1pu8bd2K1yUbQW
