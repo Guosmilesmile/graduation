@@ -10,3 +10,21 @@ https://en.wikipedia.org/wiki/Blowfish_(cipher)
 
 ssh:
 http://baike.baidu.com/link?url=IDckihF1e41UL0xKII0Ymk10DQLbWsD_bcoCIYMkIAYO20KT1gTDZyZDfvFeYODfrdvg9QAl1yLLbYbYvDZ651XQ5NkvF1pu8bd2K1yUbQW
+
+1  李刚. 轻量级Java EE企业应用实战[M]. 电子工业出版社，2008.
+2  http://baike.baidu.com/link?url=LNX8teu37AMiMleKOXwt27EzMXKkIipoWi5cYuJD38OUdA-pSDGM07FHwUfN5emWIfFiPd9UPf3H1J2E0I8wnt1URNOVAErUjwSXkztyMA07Fzxzjg7yNXqdDylq1mt_ItVzdzi3Kr4yktHnE_a8Kq
+3  https://en.wikipedia.org/wiki/Blowfish_(cipher)
+4  查理斯 等著，宁青 等译. 高可用MySQL[M]. 北京：电子工业出版社,2012.
+5  徐锋. 软件需求最佳实践[M]. 电子工业出版社,2013.
+6[美]福勒（Martin Fowler） 著. UML精粹：标准对象建模语言简明指南[M]. 电子工业出版社,2012. 
+[7] 麦斯阿塞克著, 马素霞 等译. 需求分析与系统设计[M]. 机械工业出版社，2009.
+[8] 张从亮. 基于UML的面向对象软件分析与建模[J]. 信息与电脑（理论版）,2010，4：34-36.
+[9] 萨师煊,王珊. 数据库系统概论[M]. 高等教育出版社,2008.
+[10] 希尔伯沙茨(美国). 数据库系统概念[M]. 机械工业出版社,2008.
+[11] Baron Schwart，Peter Zaitsev，Vadim Tkachenko著.  High Performance MySQL [M]. 电子工业出版社，2013.
+[12] Bruce Eckel 著,陈昊鹏 译. Java编程思想第4版[M]. 机械工业出版社,2013.
+13 戴特尔（美国）. Java How to Program(第六版)[M]. 电子工业出版社,2007.
+14陈小兵，张汉煜，骆力明，黄河. SQL注入攻击及其防范检测技术研究[J]. 计算机工程与应用,2007，43（11）：150-152.
+15 朱少民 著. 测试实践丛书：全程软件测试（第2版）[M]. 电子工业出版社,2014.
+16（爱尔兰）布朗 著. 软件测试：原理与实践（英文版）[M]. 北京：机械工业出版社,2012.
+17 MonkeyRunner. http://www.android-doc.com/tools/help/monkeyrunner_concepts.html.
